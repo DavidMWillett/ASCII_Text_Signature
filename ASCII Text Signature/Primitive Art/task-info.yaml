@@ -1,0 +1,39 @@
+type: edu
+custom_name: stage1
+files:
+- name: src/signature/Main.kt
+  visible: true
+  text: |
+    package signature
+
+    fun main() {
+        println("Hello, World!")
+    }
+  learner_created: false
+- name: test/GeneratorTest.java
+  visible: false
+  text: |
+    import org.hyperskill.hstest.stage.StageTest;
+    import signature.MainKt;
+
+    public abstract class GeneratorTest<T> extends StageTest<T> {
+        public GeneratorTest() {
+            super(MainKt.class);
+        }
+    }
+  learner_created: false
+- name: test/TestCaseHelpers.kt
+  visible: false
+  text: |
+    import org.hyperskill.hstest.testcase.TestCase
+
+
+    /** Default testCase. */
+    fun <T> testCase(attach: T, input: String) = TestCase<T>().apply {
+        setInput(input)
+        setAttach(attach)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/71/stages/390/implement
+status: Solved
+record: 1

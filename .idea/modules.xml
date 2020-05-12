@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII_Text_Signature.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII_Text_Signature.iml" group="ASCII_Text_Signature" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task.iml" group="ASCII_Text_Signature/ASCII_Text_Signature-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task_main.iml" group="ASCII_Text_Signature/ASCII_Text_Signature-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task_test.iml" group="ASCII_Text_Signature/ASCII_Text_Signature-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="ASCII_Text_Signature/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="ASCII_Text_Signature/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="ASCII_Text_Signature/util" />
+    </modules>
+  </component>
+</project>
